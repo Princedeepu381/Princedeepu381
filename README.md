@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak M</h1>
-<h3 align="center">Software Engineer | Python Developer</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on sharpening my algorithmic skills and building backend systems.
-- 🌱 I’m currently mastering **Python, Data Structures, and System Design.**
+- 🌱 I’m currently mastering **Python, Data Structures, and Data analytics**
 - 🎯 My current goal: Completing the 75 Days LeetCode Challenge.
-- 📫 How to reach me: **[deepakdep2256@gmail.com]*
+- 📫 How to reach me: **[deepakdep2256@gmail.com]**
 
 ### 🛠️ Languages and Tools
 <p align="left">
