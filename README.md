@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak M</h1>
 
-
----
-
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on sharpening my algorithmic skills and building backend systems.
 - 🌱 I’m currently mastering **Python, Data Structures, and Data analytics**
