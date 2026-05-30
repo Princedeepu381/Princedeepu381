@@ -3,7 +3,6 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on sharpening my algorithmic skills and building backend systems.
 - 🌱 I’m currently mastering **Python, Data Structures, and Data analytics**
-- 🎯 My current goal: Completing the 75 Days LeetCode Challenge.
 - 📫 How to reach me: **[deepakdep2256@gmail.com]**
 
 ### 🛠️ Languages and Tools
